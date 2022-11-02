@@ -24,3 +24,15 @@ a {
     background: black;
   }
 }
+
+.table-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  padding: 0 1rem;
+}
+.sort {
+  cursor: pointer;
+  user-select: none;
+}

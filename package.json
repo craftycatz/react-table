@@ -9,6 +9,9 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@tanstack/match-sorter-utils": "^8.5.14",
+    "@tanstack/react-table": "^8.5.22",
+    "@tanstack/table-core": "^8.5.22",
     "@types/node": "18.11.9",
     "@types/react": "18.0.24",
     "@types/react-dom": "18.0.8",
